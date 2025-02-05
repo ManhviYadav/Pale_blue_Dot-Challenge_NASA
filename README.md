@@ -1,4 +1,4 @@
-# PALE BLUE DOT CHALLENGE -NASA
+# PALE BLUE DOT CHALLENGE- NASA
 
 ## Impact on Sustainable Development Goals (SDGs)
 This project directly addresses the **Sustainable Development Goal (SDG) of Climate Action**. Our visualization illustrates the correlation between rising CO2 levels and changes in temperature and precipitation across **77 countries**. The insights provided can inform policy decisions and encourage actions to mitigate climate change.
